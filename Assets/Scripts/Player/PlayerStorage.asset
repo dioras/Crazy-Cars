@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 785cd49ec8d4b224e901b59da54c6d53, type: 3}
+  m_Name: PlayerStorage
+  m_EditorClassIdentifier: 
+  playerPrefsSaveString: _playerSave
+  gameStorageSO: {fileID: 11400000, guid: d2297af59c73b4d468c0579f1eaba5c3, type: 2}
+  concretePlayer:
+    worldType: 0
+    levelNameType: 2
+    coins: 9900
+    coinsTmp: 0
+    isMusicOn: 1
+    isSoundOn: 1
+    isVibrationcOn: 1
+    playerDetails:
+    - worldType: 0
+      detailType: 0
+      presetType: 0
+      sprite: {fileID: 21300000, guid: 62e0e9f3a5a5a8444adbbdbdb20f6a2d, type: 3}
+      backgroundColor: {r: 1, g: 0.53188324, b: 0.3726415, a: 1}
+      motorPower: 1
+      strength: 5
+      friction: 5
+    - worldType: 0
+      detailType: 0
+      presetType: 0
+      sprite: {fileID: 21300000, guid: 62e0e9f3a5a5a8444adbbdbdb20f6a2d, type: 3}
+      backgroundColor: {r: 1, g: 0.53188324, b: 0.3726415, a: 1}
+      motorPower: 1
+      strength: 5
+      friction: 5
+    - worldType: 0
+      detailType: 0
+      presetType: 0
+      sprite: {fileID: 21300000, guid: 62e0e9f3a5a5a8444adbbdbdb20f6a2d, type: 3}
+      backgroundColor: {r: 1, g: 0.53188324, b: 0.3726415, a: 1}
+      motorPower: 1
+      strength: 5
+      friction: 5
+    - worldType: 0
+      detailType: 2
+      presetType: 0
+      sprite: {fileID: 21300000, guid: 401e6ad51029ff84798fc0bc0ec27f18, type: 3}
+      backgroundColor: {r: 0.36356357, g: 0.7778151, b: 0.8113208, a: 1}
+      motorPower: 1
+      strength: 5
+      friction: 5
+    installedDetails:
+    - worldType: 0
+      detailType: 0
+      presetType: 0
+      sprite: {fileID: 21300000, guid: 62e0e9f3a5a5a8444adbbdbdb20f6a2d, type: 3}
+      backgroundColor: {r: 1, g: 0.53188324, b: 0.3726415, a: 1}
+      motorPower: 1
+      strength: 5
+      friction: 5
+    - worldType: 0
+      detailType: 2
+      presetType: 0
+      sprite: {fileID: 21300000, guid: 401e6ad51029ff84798fc0bc0ec27f18, type: 3}
+      backgroundColor: {r: 0.36356357, g: 0.7778151, b: 0.8113208, a: 1}
+      motorPower: 1
+      strength: 5
+      friction: 5
+    newDetailItems:
+    - worldType: 0
+      detailType: 0
+      presetType: 0
+      sprite: {fileID: 21300000, guid: 62e0e9f3a5a5a8444adbbdbdb20f6a2d, type: 3}
+      backgroundColor: {r: 1, g: 0.53188324, b: 0.3726415, a: 1}
+      motorPower: 1
+      strength: 5
+      friction: 5
+    - worldType: 0
+      detailType: 0
+      presetType: 0
+      sprite: {fileID: 21300000, guid: 62e0e9f3a5a5a8444adbbdbdb20f6a2d, type: 3}
+      backgroundColor: {r: 1, g: 0.53188324, b: 0.3726415, a: 1}
+      motorPower: 1
+      strength: 5
+      friction: 5
+    - worldType: 0
+      detailType: 0
+      presetType: 0
+      sprite: {fileID: 21300000, guid: 62e0e9f3a5a5a8444adbbdbdb20f6a2d, type: 3}
+      backgroundColor: {r: 1, g: 0.53188324, b: 0.3726415, a: 1}
+      motorPower: 1
+      strength: 5
+      friction: 5
+    - worldType: 0
+      detailType: 2
+      presetType: 0
+      sprite: {fileID: 21300000, guid: 401e6ad51029ff84798fc0bc0ec27f18, type: 3}
+      backgroundColor: {r: 0.36356357, g: 0.7778151, b: 0.8113208, a: 1}
+      motorPower: 1
+      strength: 5
+      friction: 5
+    hasNewDetails: 0
+    firstLaunch: 0
+    firstGacha: 1
+    tutorial: 0
+    isRateUs: 0
+    dateLastRateTry:
+      value: 0
+    timeLastSession:
+      value: 0
+    isBuyADSOffer: 0

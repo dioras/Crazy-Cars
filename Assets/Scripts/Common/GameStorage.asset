@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1278307413659b4388b5928d6feff27, type: 3}
+  m_Name: GameStorage
+  m_EditorClassIdentifier: 
+  gameBaseParameters:
+    baseMotorPower: 10
+    baseStrenght: 10
+    baseFriction: 10
+    baseLevelProfit: 100
+    winLevelProfit: 100
+    baseGachaponCoast: 1000
+    timeToInteractUI: 0.3
+    timeToShowHiddenButton: 3
+    reRateUsDelta: 0
+    playerLevelToRateUs: 1
+    playerLevelToInterstitial: 3
+    formatingMoneyString: $#,0
+    baseCameraPosition: {x: 4.51, y: 24, z: -11.72}
+    baseCameraRotation: {x: 60, y: -21, z: 0}
+    gameCameraPosition: {x: 0, y: 13.62, z: -7.42}
+    gameCameraRotation: {x: 61.5, y: 0, z: 0}
+    puzzleCameraPosition: {x: 0, y: 18.26, z: -9.94}
+    puzzleCameraRotation: {x: 61.5, y: 0, z: 0}

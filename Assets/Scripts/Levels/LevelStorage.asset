@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ae0cabbe270c2743bd4f3886c3a450b, type: 3}
+  m_Name: LevelStorage
+  m_EditorClassIdentifier: 
+  worldList:
+  - worldType: 0
+    worldSprite: {fileID: 21300000, guid: 83341476a29088e489e4827951d3d95e, type: 3}
+    worldBackgroundColor: {r: 0.42745098, g: 0.7529412, b: 1, a: 0}
+    levelsList:
+    - levelNameType: 0
+      motorPower: 40
+      destroyDetailChance: 5
+      destroyDetailPover: 1.5
+    - levelNameType: 1
+      motorPower: 38
+      destroyDetailChance: 6
+      destroyDetailPover: 1.4
+    - levelNameType: 2
+      motorPower: 36
+      destroyDetailChance: 7
+      destroyDetailPover: 1.3
+    - levelNameType: 3
+      motorPower: 34
+      destroyDetailChance: 7
+      destroyDetailPover: 1.3
+    - levelNameType: 4
+      motorPower: 32
+      destroyDetailChance: 7
+      destroyDetailPover: 1.3
+  - worldType: 1
+    worldSprite: {fileID: 21300000, guid: 37db1e5d3d04bf846987e0f86094e3a7, type: 3}
+    worldBackgroundColor: {r: 0.8509804, g: 0.5803922, b: 0.29411766, a: 0}
+    levelsList:
+    - levelNameType: 0
+      motorPower: 30
+      destroyDetailChance: 8
+      destroyDetailPover: 1.2
+    - levelNameType: 1
+      motorPower: 28
+      destroyDetailChance: 9
+      destroyDetailPover: 1.1
+    - levelNameType: 2
+      motorPower: 26
+      destroyDetailChance: 10
+      destroyDetailPover: 1
+    - levelNameType: 3
+      motorPower: 24
+      destroyDetailChance: 10
+      destroyDetailPover: 1
+    - levelNameType: 4
+      motorPower: 22
+      destroyDetailChance: 10
+      destroyDetailPover: 1
+  - worldType: 2
+    worldSprite: {fileID: 21300000, guid: 99b55196bd96d0347adc385a114721a3, type: 3}
+    worldBackgroundColor: {r: 0.23529412, g: 0.5882353, b: 0.2784314, a: 0}
+    levelsList:
+    - levelNameType: 0
+      motorPower: 20
+      destroyDetailChance: 11
+      destroyDetailPover: 0.9
+    - levelNameType: 1
+      motorPower: 18
+      destroyDetailChance: 12
+      destroyDetailPover: 0.8
+    - levelNameType: 2
+      motorPower: 16
+      destroyDetailChance: 13
+      destroyDetailPover: 0.7
+    - levelNameType: 3
+      motorPower: 14
+      destroyDetailChance: 13
+      destroyDetailPover: 0.7
+    - levelNameType: 4
+      motorPower: 12
+      destroyDetailChance: 13
+      destroyDetailPover: 0.7
